@@ -16,5 +16,15 @@ Dosen Pengampu  : Sufajar Butsianto, S.Kom., M.Kom.
 
 #Hasil Running dari RecyclerView dengan Android Studio
 
+![image](Pict1.png)
+
+![image](pict2.jpeg)
+
+Tugas ini dibuat untuk mengumpulkan Ujian Tengah Semester
+
+sekian
+
+Terimakasih
+
 
 
